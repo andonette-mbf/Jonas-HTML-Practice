@@ -118,7 +118,9 @@ li:last-child {
   font-style: italic;
   font-size: 18px;
 }
-
+.author-img {
+  float: left;
+}
 #copyright {
   font-size: 16px;
 }
